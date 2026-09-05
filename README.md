@@ -1,8 +1,8 @@
-# InsightGenAI
+# HealthPulseAI
 
 this is a Streamlit app that lets users upload data or connect to a database, then uses Gemini to generate an AI analyst briefing and a data chatbot.
 
-# 🚀 InsightGenAI – AI-Powered Automated Data Analytics Platform
+# 🚀 HealthPulseAI – AI-Powered Automated Data Analytics Platform
 
 InsightGenAI is an end-to-end AI-powered Data Analytics Platform that automates the complete analytics workflow—from data ingestion and preprocessing to AI-generated business insights and conversational analytics. It enables analysts to spend less time on repetitive data preparation and more time solving real business problems.
 
